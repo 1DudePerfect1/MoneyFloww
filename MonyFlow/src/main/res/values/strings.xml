@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">More Money</string>
+    <string name="login">Login</string>
+    <string name="reg">Register</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+</resources>
